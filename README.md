@@ -1,8 +1,8 @@
 # Breast-Cancer-Classification
 A machine learning model that classifies breast cancer
 
-Breast Cancer Classification using Machine Learning in Python
-Introduction
+# Breast Cancer Classification using Machine Learning in Python
+## Introduction
 This Python script demonstrates a simple yet effective breast cancer classification model using machine learning. The model is designed to predict whether a breast cancer tumor is malignant (0) or benign (1) based on various features.
 
 Technologies Used
